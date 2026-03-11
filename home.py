@@ -1,5 +1,7 @@
 # Program to calculate total investment from monthly deposits
 print("hello")
+print("hello")
+
 
 # Ask user for details
 investor_name = input("Enter investor name: ")
